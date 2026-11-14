@@ -1,15 +1,24 @@
-<"Kijelző jel	            ESP32-S3 GPIO" />
-<"SDA / MOSI	            1" />
-SCL / SCK	              2
-CS	                    3
-RST	                    6
-HS	                    4
-DE	                    5
-VS	                    47
-CLK / PCLK	            42
-R0–R4	                  7, 8, 9, 10, 11
-G0–G5	                  12, 13, 14, 15, 16, 17
-B0–B4	                  18, 21, 39, 40, 41
+<tr><td>RST</td><td>6</td></tr>
+  <tr><td>HS</td><td>4</td></tr>
+  <tr><td>DE</td><td>5</td></tr>
+  <tr><td>VS</td><td>47</td></tr>
+  <tr><td>CLK / PCLK</td><td>42</td></tr>
+  <tr><td>R0–R4</td><td>7, 8, 9, 10, 11</td></tr>
+  <tr><td>G0–G5</td><td>12, 13, 14, 15, 16, 17</td></tr>
+  <tr><td>B0–B4</td><td>18, 21, 39, 40, 41</td></tr>
+</table>
+
+<style>
+table {
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+}
+th, td {
+  border: 1px solid #888;
+  padding: 6px 20px;
+  text-align: left;
+}
+</style>
 <img width="629" height="238" alt="LV" src="https://github.com/user-attachments/assets/623baf6f-4d6a-460e-ad6e-f6807ff73b5b" />
 <img width="4000" height="2252" alt="20261114_184755" src="https://github.com/user-attachments/assets/e6f0866a-9230-4d58-aa80-6b320e7cbf24" />
 <img width="4000" height="2252" alt="20261114_184703" src="https://github.com/user-attachments/assets/25ec7f72-43fd-424c-8efd-93f306655135" />
