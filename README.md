@@ -1,4 +1,7 @@
-
+<hr style="border: 0;
+           border-top: 10px solid #FF0000;
+           margin-top: 40px;
+           margin-bottom: 40px;">
 <table style="border-collapse:collapse;
               font-family:Arial,sans-serif;
               border-top: 10px solid #FF0000;">
