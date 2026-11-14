@@ -19,20 +19,20 @@
 </table>
 <hr style="border: none;
            height: 5px;
-           background-color: #888;
+           background-color: #788;
            margin-top: 40px;
            margin-bottom:40px;">
 
 <img width="629" height="238" alt="LV" src="https://github.com/user-attachments/assets/623baf6f-4d6a-460e-ad6e-f6807ff73b5b" />
 <hr style="border: none;
            height: 5px;
-           background-color: #888;
+           background-color: #788;
            margin-top: 40px;
            margin-bottom:40px;">
 <img width="4000" height="2252" alt="20261114_184755" src="https://github.com/user-attachments/assets/e6f0866a-9230-4d58-aa80-6b320e7cbf24" />
 <hr style="border: none;
            height: 5px;
-           background-color: #888;
+           background-color: #788;
            margin-top: 40px;
            margin-bottom:40px;">
 <img width="4000" height="2252" alt="20261114_184703" src="https://github.com/user-attachments/assets/25ec7f72-43fd-424c-8efd-93f306655135" />
