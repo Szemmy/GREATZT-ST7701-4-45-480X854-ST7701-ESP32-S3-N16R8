@@ -1,5 +1,8 @@
 
-<table style="border-collapse:collapse; font-family:Arial,sans-serif;">
+<table style="border-collapse:collapse;
+              font-family:Arial,sans-serif;
+              border-top: 10px solid #FF0000;
+              margin-top: 40px;">
   <tr>
     <th style="border:1px solid #888; padding:6px 20px;">Kijelző jel</th>
     <th style="border:1px solid #888; padding:6px 20px;">ESP32-S3 GPIO</th>
@@ -33,8 +36,24 @@
            margin-top: 40px;
            margin-bottom: 430px;">
 <img width="4000" height="2252" alt="20261114_184703" src="https://github.com/user-attachments/assets/25ec7f72-43fd-424c-8efd-93f306655135" />
+<hr style="border: 0;
+           border-top: 10px solid #FF0000;
+           margin-top: 40px;
+           margin-bottom: 430px;">
 <img width="4000" height="2252" alt="20261114_192723" src="https://github.com/user-attachments/assets/7ed406e9-8dc2-447b-bd7b-d576953365bc" />
+<hr style="border: 0;
+           border-top: 10px solid #FF0000;
+           margin-top: 40px;
+           margin-bottom: 430px;">
 <img width="4000" height="2252" alt="20261114_185543" src="https://github.com/user-attachments/assets/eee1f3af-60eb-4758-b307-7f5dbb802ac6" />
+<hr style="border: 0;
+           border-top: 10px solid #FF0000;
+           margin-top: 40px;
+           margin-bottom: 430px;">
 <img width="4000" height="2252" alt="20261114_185105" src="https://github.com/user-attachments/assets/6d1bd72f-8904-42be-8291-44c434c5097e" />
+<hr style="border: 0;
+           border-top: 10px solid #FF0000;
+           margin-top: 40px;
+           margin-bottom: 430px;">
 <img width="4000" height="2252" alt="20261114_205325" src="https://github.com/user-attachments/assets/58773fdf-7049-4d48-92d3-a0633b72a6cb" />
 
