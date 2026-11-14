@@ -4,7 +4,7 @@
     <th style="border:1px solid #888; padding:6px 20px;">Kijelző jel</th>
     <th style="border:1px solid #888; padding:6px 20px;">ESP32-S3 GPIO</th>
   </tr>
-   <tr><td>VCCI</td><td>3,3V</td></tr>
+   <tr><td>VCC / BL</td><td>3,3V</td></tr>
   <tr><td>SDA / MOSI</td><td>1</td></tr>
   <tr><td>SCL / SCK</td><td>2</td></tr>
   <tr><td>CS</td><td>3</td></tr>
