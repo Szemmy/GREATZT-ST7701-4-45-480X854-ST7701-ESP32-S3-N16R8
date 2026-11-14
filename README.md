@@ -1,5 +1,5 @@
-Kijelző jel	            ESP32-S3 GPIO
-SDA / MOSI	            1
+<"Kijelző jel	            ESP32-S3 GPIO" />
+<"SDA / MOSI	            1" />
 SCL / SCK	              2
 CS	                    3
 RST	                    6
