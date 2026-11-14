@@ -1,4 +1,9 @@
-<tr><td>RST</td><td>6</td></tr>
+<table>
+  <tr><th>Kijelző jel</th><th>ESP32-S3 GPIO</th></tr>
+  <tr><td>SDA / MOSI</td><td>1</td></tr>
+  <tr><td>SCL / SCK</td><td>2</td></tr>
+  <tr><td>CS</td><td>3</td></tr>
+  <tr><td>RST</td><td>6</td></tr>
   <tr><td>HS</td><td>4</td></tr>
   <tr><td>DE</td><td>5</td></tr>
   <tr><td>VS</td><td>47</td></tr>
