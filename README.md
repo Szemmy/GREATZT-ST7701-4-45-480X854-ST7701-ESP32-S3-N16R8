@@ -17,6 +17,11 @@
   <tr><td>G0–G5</td><td>12, 13, 14, 15, 16, 17</td></tr>
   <tr><td>B0–B4</td><td>18, 21, 39, 40, 41</td></tr>
 </table>
+<hr style="border: none;
+           height: 5px;
+           background-color: #888;
+           margin-top: 40px;
+           margin-bottom: 30px;">
 
 <img width="629" height="238" alt="LV" src="https://github.com/user-attachments/assets/623baf6f-4d6a-460e-ad6e-f6807ff73b5b" />
 <img width="4000" height="2252" alt="20261114_184755" src="https://github.com/user-attachments/assets/e6f0866a-9230-4d58-aa80-6b320e7cbf24" />
