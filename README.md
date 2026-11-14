@@ -1,8 +1,8 @@
 
 <table style="border-collapse:collapse;
               font-family:Arial,sans-serif;
-              border-top: 10px solid #FF0000;
-              margin-top: 40px;">
+              border-top: 10px solid #FF0000;">
+
   <tr>
     <th style="border:1px solid #888; padding:6px 20px;">Kijelző jel</th>
     <th style="border:1px solid #888; padding:6px 20px;">ESP32-S3 GPIO</th>
