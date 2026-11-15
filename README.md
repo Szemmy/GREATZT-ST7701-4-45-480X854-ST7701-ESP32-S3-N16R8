@@ -28,8 +28,8 @@
            margin-top: 40px;
            margin-bottom: 40px;">
 ### Szükséges könyvtárak (Arduino IDE)
-<br>* **LVGL** (by kisvegabor): `8.3.11` verzió</br>
-<br>ESP32_Display_Panel**: `0.1.8` verzió</br>
+<br>LVGL (by kisvegabor): `8.3.11` verzió</br>
+<br>ESP32_Display_Panel: `0.1.8` verzió</br>
 <hr style="border: 0;
            border-top: 10px solid #FF0000;
            margin-top: 40px;
