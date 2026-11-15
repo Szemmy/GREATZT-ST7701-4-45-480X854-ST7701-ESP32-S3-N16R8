@@ -72,7 +72,9 @@
            border-top: 10px solid #FF0000;
            margin-top: 40px;
            margin-bottom: 430px;">
-<img width="4000" height="2252" alt="20261115_175323" src="https://github.com/user-attachments/assets/8fab98e9-b82e-4f4a-acac-6e30ea666ce4" />
+
+https://github.com/user-attachments/assets/11a0ae06-3a64-414e-93f1-e605950a1b34
+
 <hr style="border: 0;
            border-top: 10px solid #FF0000;
            margin-top: 40px;
