@@ -68,4 +68,8 @@
            margin-top: 40px;
            margin-bottom: 430px;">
 <img width="4000" height="2252" alt="20261114_205325" src="https://github.com/user-attachments/assets/58773fdf-7049-4d48-92d3-a0633b72a6cb" />
-
+<hr style="border: 0;
+           border-top: 10px solid #FF0000;
+           margin-top: 40px;
+           margin-bottom: 430px;">
+<img width="4000" height="2252" alt="20261115_175323" src="https://github.com/user-attachments/assets/8fab98e9-b82e-4f4a-acac-6e30ea666ce4" />
